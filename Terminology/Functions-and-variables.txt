@@ -1,0 +1,22 @@
+Print: Funcion para mostrar datos (como ser texto)
+Argumentos: Entrada a una function que influye en su forma de actuar
+GUI: Interfaz grafica de usuario
+Input: Sirve para habilitar una entrada de datos del usuario (Solo un string de texto)
+Variable: Almacena valores
+Pseudocode: Expresa de forma algoritmica o metodica los pensamientos, en nuestro propio idioma (por ejemplo usando los comentarios)
+#: Sirve para comentar el codigo
+Algunas funciones pueden tomar multiples argumentos
+Cuando pasas multiples argumentos en print ingresa automaticamente un espacio
+Cuando usas la coma en vez del + no debes agregar el espacio al texto entre comillas
+docs.python.org/3/library/functions.html: aqui se encuentra todas las funciones de python
+print (*objects, sep=' ', end='\n', file=sys.stdout, flush=false)
+Parametros: lo que se puede ingresar a una function y como son llamadas esas entradas
+Argumentos: cuando usas la function e ingresas valores dentro de los parentesis, las inputs se vuelven argumentos
+Parametros posicionales: cuando le damos valores a print
+Parametros nombrados: son opcionales, como sep y end
+Al querer usar comillas en print podemos usar '' para encerrar todo el valor y usar "" para ver algo y que aparezca con las comillas ('hello, "friend"') o ("hello, \"friend\"")
+String de formato: (f"hello, {name}") por si se usan corchetes
+Strip: se usa para eliminar los espacios en los datos que ingresa el usuario
+Metodo: function que esta anclada a un tipo de dato o valor
+Split: divide un string en multiples substrings
+Int: Un entero ya sea deste negativo infinito hasta positivo infinito, sin decimales
