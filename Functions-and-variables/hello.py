@@ -24,3 +24,4 @@ print (f"Hello, {name}") # This is yet another way to print the greeting using a
 
 print (f"Hello, {first}") # This line uses an f-string to greet the user by their first name only, which can make the greeting feel more personal.
 print (f"Hello, {last}") # This line uses an f-string to greet the user by their last name only, which can make the greeting feel more personal.
+
