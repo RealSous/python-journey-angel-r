@@ -20,9 +20,11 @@ Strip: se usa para eliminar los espacios en los datos que ingresa el usuario
 Metodo: function que esta anclada a un tipo de dato o valor
 Split: divide un string en multiples substrings
 Int: Un entero ya sea desde negativo infinito hasta positivo infinito, sin decimales
-float: valor con un nnumero decimal, llamado punto flotante
+float: valor con un numero decimal, llamado punto flotante
 Round: redondea los valores al entero mas cercano
 round(number[,ndigits]) : la function round toma solo un numero como primer argumento, Tambien puede especificar el numero de digitos a redondear, si no se especifica se redondea al entero  mas cercano
 []: Cuando ves algo entre estos corchetes significa que es algo opcional
 def: define o definir, sirve para crear nuestras propias funciones
 Scope: variable que solo existe en el contexto que fue definida
+len(): sirve para contar la cantidad de caracteres en un string
+[0], [-1]: con el cero accedes al primer elemento y con el negativo uno al ultimo del string
